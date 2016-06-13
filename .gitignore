@@ -1,0 +1,4 @@
+*.pyc
+nimcache
+**/nim/
+!**/nim/*.nim
